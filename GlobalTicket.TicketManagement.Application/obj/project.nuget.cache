@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLeocLzdIvmxvAn3jrw1i9JS0wIRCzUFvMhwf5//uB+odPRhBTmrEKrjHn/P/Fq3K+PXQVWpqE0bJWkhCAO4Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yue\\source\\repos\\GlobalTickert.TicketManagement\\GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
