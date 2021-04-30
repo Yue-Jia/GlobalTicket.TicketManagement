@@ -1,0 +1,12 @@
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.deps.json
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.dll
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.pdb
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.dll
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.pdb
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.csprojAssemblyReference.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.dll
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Application.pdb

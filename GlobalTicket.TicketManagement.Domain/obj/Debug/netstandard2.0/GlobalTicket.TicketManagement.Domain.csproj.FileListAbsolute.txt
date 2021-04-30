@@ -1,0 +1,9 @@
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.deps.json
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.dll
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.pdb
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.csprojAssemblyReference.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.dll
+C:\Users\Yue\source\repos\GlobalTickert.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GlobalTicket.TicketManagement.Domain.pdb
