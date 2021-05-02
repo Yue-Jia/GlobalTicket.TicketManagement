@@ -3,6 +3,8 @@ using GlobalTicket.TicketManagement.Application.Features.Categories.Queries.GetC
 using GlobalTicket.TicketManagement.Application.Features.Categories.Queries.GetCategoriesWithEvents;
 using GlobalTicket.TicketManagement.Application.Features.Events;
 using GlobalTicket.TicketManagement.Application.Features.Events.Commands.CreateEvent;
+using GlobalTicket.TicketManagement.Application.Features.Events.Commands.DeleteEvent;
+using GlobalTicket.TicketManagement.Application.Features.Events.Commands.UpdateEvent;
 using GlobalTicket.TicketManagement.Domain;
 using GlobalTicket.TicketManagement.Domain.Entities;
 using System;
@@ -21,6 +23,8 @@ namespace GlobalTicket.TicketManagement.Application.Profiles
             CreateMap<Category,CategoryListVm>();
             CreateMap<Category,CategoryEventListVm>();
             CreateMap<Event,CreateEventCommand>().ReverseMap();
+            CreateMap<Event,UpdateEventCommand>().ReverseMap();
+            CreateMap<Event,DeleteEventCommand>().ReverseMap();
 
         }
         

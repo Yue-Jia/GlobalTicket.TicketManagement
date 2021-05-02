@@ -3,7 +3,7 @@ using GlobalTicket.TicketManagement.Domain.Entities;
 using System;
 using System.Collections.Generic;
 
-namespace GlobalTicket.TicketManagement.Domain
+namespace GlobalTicket.TicketManagement.Domain.Entities
 {
     public class Category: AuditableEntity
     {

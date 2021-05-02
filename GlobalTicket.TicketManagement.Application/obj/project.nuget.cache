@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "feC0l16im8viWPnqES3ejc2g1xaZ0rSr53MFb2oV6F2zMimQlt5IT6NQw7n888Wxx4B+yvWUxXB4nDYSYstSPA==",
+  "dgSpecHash": "2U5+xbu7sZimoGl7gaGJUBVuNyCJexGEPQlaRYqC5JAs8I3KA0yagakx8QYGvLxxnPUfrzj9kzD7o1oyhOQGNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yue\\source\\repos\\GlobalTickert.TicketManagement\\GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yue\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Yue\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Yue\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\Yue\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
     "C:\\Users\\Yue\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Yue\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Yue\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
